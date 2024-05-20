@@ -1,6 +1,7 @@
 # Part-1 Small coding assignment
 ## Solution for Move Method Across Packages Refactoring:
   ### New git repository created named PYRefDemo
+  - Directory location PyRef/PYRefDemo
   
   ## Changes inside PyRefDemo directory
   ### New Packages
