@@ -1,8 +1,8 @@
 ## Part-1 Small coding assignment
 ## Solution for Move Method Across Packages Refactoring:
   ## New git repository created named PYRefDemo
-  ## Changes inside PyRefDemo directory
   
+  ## Changes inside PyRefDemo directory
   ### New Packages
   - Two new packages named `packageOne` and `packageTwo` have been created within the PyRefDemo folder.
   - Each package contains one python file. <br/> packageOne contains example1.py <br/> packageTwo contains example_2.py
